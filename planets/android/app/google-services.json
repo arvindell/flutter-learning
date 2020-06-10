@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527901516668",
+    "firebase_url": "https://planets-flutter.firebaseio.com",
+    "project_id": "planets-flutter",
+    "storage_bucket": "planets-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527901516668:android:ea3ec509d61e1484ec3af9",
+        "android_client_info": {
+          "package_name": "com.alexvilchis.planets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527901516668-5cldtumu2f844kjfligd9indnsvjhr3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-psV5eGrsM_o1oS793yPDl2jPNKhsWVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527901516668-5cldtumu2f844kjfligd9indnsvjhr3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
